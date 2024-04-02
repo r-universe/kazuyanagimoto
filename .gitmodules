@@ -2,8 +2,8 @@
 	path = .registry
 	url = https://github.com/kazuyanagimoto/kazuyanagimoto.r-universe.dev
 	branch = HEAD
-[submodule "qurtomonothemer"]
-	path = qurtomonothemer
+[submodule "quartomonothemer"]
+	path = quartomonothemer
 	url = https://github.com/kazuyanagimoto/quartomonothemer
 [submodule "unitdid"]
 	path = unitdid
