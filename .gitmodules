@@ -1,4 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/kazuyanagimoto/kazuyanagimoto.r-universe.dev
 	branch = HEAD
+[submodule "qurtomonothemer"]
+	path = qurtomonothemer
+	url = https://github.com/kazuyanagimoto/quartomonothemer
+[submodule "unitdid"]
+	path = unitdid
+	url = https://github.com/kazuyanagimoto/unitdid
