@@ -5,6 +5,9 @@
 [submodule "quartomonothemer"]
 	path = quartomonothemer
 	url = https://github.com/kazuyanagimoto/quartomonothemer
+[submodule "typstcv"]
+	path = typstcv
+	url = https://github.com/kazuyanagimoto/typstcv
 [submodule "unitdid"]
 	path = unitdid
 	url = https://github.com/kazuyanagimoto/unitdid
